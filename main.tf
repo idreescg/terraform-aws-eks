@@ -1,7 +1,3 @@
-provider "aws" {
-  region = "us-west-2" # Specify your preferred region
-}
-
 module "eks" {
   source          = "terraform-aws-modules/eks/aws"
   cluster_name    = "my-cluster"
