@@ -19,7 +19,7 @@ This repository contains a Terraform configuration to set up an Amazon EKS clust
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-repo/terraform-eks.git
+    git clone git@github.com:idreescg/terraform-aws-eks.git
     cd terraform-eks
     ```
 
